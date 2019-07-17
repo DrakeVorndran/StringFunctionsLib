@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1563382330924" clover="3.2.0">
+  <project timestamp="1563382330924" name="All files">
+    <metrics statements="20" coveredstatements="20" conditionals="10" coveredconditionals="10" methods="15" coveredmethods="15" elements="45" coveredelements="45" complexity="0" loc="20" ncloc="20" packages="1" files="1" classes="1"/>
+    <file name="stringCasing.js" path="/Users/drakevorndran/code/6sem/JSFEW/stringCasing/stringCasing.js">
+      <metrics statements="20" coveredstatements="20" conditionals="10" coveredconditionals="10" methods="15" coveredmethods="15"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="23" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="6" count="6" type="stmt"/>
+      <line num="9" count="1" type="stmt"/>
+      <line num="10" count="20" type="stmt"/>
+      <line num="13" count="1" type="stmt"/>
+      <line num="14" count="44" type="cond" truecount="2" falsecount="0"/>
+      <line num="17" count="1" type="stmt"/>
+      <line num="18" count="44" type="cond" truecount="2" falsecount="0"/>
+      <line num="21" count="1" type="stmt"/>
+      <line num="22" count="51" type="cond" truecount="2" falsecount="0"/>
+      <line num="25" count="1" type="stmt"/>
+      <line num="26" count="234" type="cond" truecount="4" falsecount="0"/>
+      <line num="29" count="1" type="stmt"/>
+      <line num="30" count="3" type="stmt"/>
+      <line num="33" count="1" type="stmt"/>
+      <line num="34" count="3" type="stmt"/>
+      <line num="37" count="1" type="stmt"/>
+      <line num="38" count="3" type="stmt"/>
+    </file>
+  </project>
+</coverage>
