@@ -2,6 +2,7 @@
 ![npm](https://img.shields.io/npm/v/gyration_crustacean_stringcasing.svg)
 ![Snyk Vulnerabilities for npm package](https://img.shields.io/snyk/vulnerabilities/npm/gyration_crustacean_stringcasing.svg)
 ![Coveralls github](https://img.shields.io/coveralls/github/DrakeVorndran/StringFunctionsLib.svg)
+[![Build Status](https://travis-ci.com/DrakeVorndran/StringFunctionsLib.svg?branch=master)](https://travis-ci.com/DrakeVorndran/StringFunctionsLib)
 
 
 # String Casing
