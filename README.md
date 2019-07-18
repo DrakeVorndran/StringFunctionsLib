@@ -1,3 +1,8 @@
+![npm bundle size](https://img.shields.io/bundlephobia/min/gyration_crustacean_stringcasing.svg)
+![npm](https://img.shields.io/npm/v/gyration_crustacean_stringcasing.svg)
+![Snyk Vulnerabilities for npm package](https://img.shields.io/snyk/vulnerabilities/npm/gyration_crustacean_stringcasing.svg)
+
+
 # String Casing
 Various functions to handle string casing added onto the string prototype
 
@@ -44,12 +49,12 @@ Various functions to handle string casing added onto the string prototype
   "this is a string".kabobCase() //=> "this-is-a-string"
   ```
 * __String.prototype.snakeCase()__  
-  changes string from sentence into kabob case
+  changes string from sentence into snake case
   ```js
   "this is a string".snakeCase() //=> "this_is_a_string"
   ```
 * __String.prototype.camelCase()__  
-  changes string from sentence into kabob case
+  changes string from sentence into camel case
   ```js
   "this is a string".camelCase() //=> "ThisIsAString"
   ```
