@@ -1,6 +1,6 @@
 {
   "name": "gyration_crustacean_stringcasing",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "package that manages string casing",
   "main": "stringCasing.js",
   "scripts": {

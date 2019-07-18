@@ -1,6 +1,7 @@
 ![npm bundle size](https://img.shields.io/bundlephobia/min/gyration_crustacean_stringcasing.svg)
 ![npm](https://img.shields.io/npm/v/gyration_crustacean_stringcasing.svg)
 ![Snyk Vulnerabilities for npm package](https://img.shields.io/snyk/vulnerabilities/npm/gyration_crustacean_stringcasing.svg)
+![Coveralls github](https://img.shields.io/coveralls/github/DrakeVorndran/StringFunctionsLib.svg)
 
 
 # String Casing
